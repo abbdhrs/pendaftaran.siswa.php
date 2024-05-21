@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Pendaftaran Siswa Baru | SMK Coding</title>
+    <title>Pendaftaran Siswa Baru | SMKN 2 PEKALONGAN</title>
 
     <link
       href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
@@ -60,7 +60,7 @@
   <body>
     <nav class="navbar navbar-expand-lg bg-primary navbar-dark fixed-top">
       <div class="container">
-        <a class="navbar-brand" href="#">SMK JAYAPURA</a>
+        <a class="navbar-brand" href="#">SMKN 2 PEKALONGAN</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
